@@ -58,13 +58,13 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/mrousavy/react-native-vision-camera",
-  "author": "Marc Rousavy <marcrousavy@hotmail.com> (https://github.com/mrousavy)",
-  "license": "MIT",
+  "repository": "https://github.com/poojagaikwad1797/pg-react-native-vision-camera.git",
+  "author": "Pooja Gaikwad <gaikwadpooja1797@gmail.com> (https://impooja.netlify.app/)",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrousavy/react-native-vision-camera/issues"
+    "url": "https://github.com/poojagaikwad1797/pg-react-native-vision-camera/issues"
   },
-  "homepage": "https://mrousavy.github.io/react-native-vision-camera/",
+  "homepage":"https://github.com/poojagaikwad1797/pg-react-native-vision-camera/",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

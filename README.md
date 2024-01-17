@@ -16,7 +16,7 @@ This is fork from (https://github.com/mrousavy/react-native-vision-camera)
 Install VisionCamera from npm:
 
 ```sh
-yarn add invitra-react-native-vision-camera
+npm install invitra-react-native-vision-camera
 cd ios && pod install
 ```
 

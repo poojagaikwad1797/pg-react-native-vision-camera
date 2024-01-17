@@ -1,5 +1,5 @@
 {
-  "name": "react-native-vision-camera",
+  "name": "pg-react-native-vision-camera",
   "version": "2.15.4",
   "description": "The Camera library that sees the vision.",
   "main": "lib/commonjs/index",
@@ -58,13 +58,16 @@
     "qr-code",
     "scanner"
   ],
-  "repository": "https://github.com/poojagaikwad1797/pg-react-native-vision-camera.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojagaikwad1797/pg-react-native-vision-camera.git"
+  },
   "author": "Pooja Gaikwad <gaikwadpooja1797@gmail.com> (https://impooja.netlify.app/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/poojagaikwad1797/pg-react-native-vision-camera/issues"
   },
-  "homepage":"https://github.com/poojagaikwad1797/pg-react-native-vision-camera/",
+  "homepage": "https://github.com/poojagaikwad1797/pg-react-native-vision-camera/",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -159,5 +162,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "lib": "lib"
   }
 }

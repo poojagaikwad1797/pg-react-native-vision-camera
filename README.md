@@ -1,4 +1,4 @@
-<a href="https://margelo.io">
+<a href="https://github.com/poojagaikwad1797/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/banner-light.png" />
     <source media="(prefers-color-scheme: light)" srcset="img/banner-light.png" />
@@ -39,10 +39,12 @@ cd ios && pod install
 
 
 ## If you are using vision-camera-code-scanner then do changes in below file 
-### file : node_modules/vision-camera-code-scanner/src/hooks,tsx
+### file : node_modules/vision-camera-code-scanner/src/hooks.tsx
 
 ```sh
-import { Frame, useFrameProcessor } from 'invitra-react-native-vision-camera';
+
+import { Frame, useFrameProcessor } from 'invitra-react-native-vision-camera';  
+
 ```
 
 ### For successfully run on iOS please install this package.
